@@ -1,0 +1,31 @@
+```
+brand:                       SONY
+model no. of remote control: RM-SD50
+devices being controlled by this remote: Sony FH-G88AV Mini Hi-Fi Component System, RX-90
+
+VOL_INC	Received Sony: data=0x00000481, nbits=12
+VOL_DEC	Received Sony: data=0x00000C81, nbits=12
+POWER	Received Sony: data=0x00000A81, nbits=12
+SLEEP	Received Sony: data=0x00000061, nbits=12
+CD	Received Sony: data=0x000004D1, nbits=12
+FUNCTION	Received Sony: data=0x00000966, nbits=12
+MM_LEFT	Received Sony: data=0x00000EC9, nbits=12
+MM_RIGHT	Received Sony: data=0x000006C9, nbits=12
+MM_UP	Received Sony: data=0x000003E9, nbits=12
+MM_DOWN	Received Sony: data=0x00000BE9, nbits=12
+CLEAR	Received Sony: data=0x00000F11, nbits=12
+TUNER/BAND	Received Sony: data=0x00000F16, nbits=12
+CHECK	Received Sony: data=0x00000B11, nbits=12
+LOOP	Received Sony: data=0x000001F1, nbits=12
+EDIT	Received Sony: data=0x00000571, nbits=12
+MM_ON/OFF	Received Sony: data=0x00000146, nbits=12
+DECK_A	Received Sony: data=0x000002EE, nbits=12
+DECK_B	Received Sony: data=0x000002CE, nbits=12
+DISC_SKIP	Received Sony: data=0x000007D1, nbits=12
+STOP	Received Sony: data=0x0001CB9C, nbits=20
+PAUSE	Received Sony: data=0x0009CB9C, nbits=20
+NEXT	Received Sony: data=0x0008CB9C, nbits=20
+FF	Received Sony: data=0x0002CB9C, nbits=20
+PREV	Received Sony: data=0x0000CB9C, nbits=20
+REW	Received Sony: data=0x000CCB9C, nbits=20
+```
